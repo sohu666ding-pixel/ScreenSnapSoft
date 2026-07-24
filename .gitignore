@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.thumbcache/
+logs/
+picture/
+pictureX/
+build/
+dist/
+.claude/
+.venv/
+*.spec.bak
